@@ -1,0 +1,14 @@
+# Web Framework
+flask
+flask-cors
+werkzeug
+
+# Google Gemini SDK (ใช้ตามที่ Google Quick Start แนะนำ)
+google-genai
+
+# MediaPipe for pose extraction from video
+mediapipe
+opencv-python
+
+# Environment Variables
+python-dotenv
