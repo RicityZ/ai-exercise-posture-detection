@@ -1,6 +1,7 @@
 # 🏋️‍♀️ AI Exercise Posture Detection
 
 > **ระบบตรวจจับและวิเคราะห์ท่าทางการออกกำลังกายด้วย AI** - ใช้ MediaPipe Pose Detection และ Google Gemini AI
+
 # บางส่วนของระบบไม่สามารถเปิดเผยได้เนื่องจาก NDA
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
@@ -9,8 +10,6 @@
 [![Gemini AI](https://img.shields.io/badge/Gemini-AI-purple.svg)](https://ai.google.dev/)
 
 ---
-
-# บางส่วนของระบบไม่สามารถเปิดเผยได้เนื่องจาก NDA
 
 ## 🎯 ภาพรวมโปรเจค
 
