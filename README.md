@@ -214,10 +214,10 @@ ai-exercise-posture-detection/
 
 ---
 
-
 ## 📄 License
 
-ใช้สำหรับการศึกษาและพัฒนาเท่านั้น
+This repository is shared for portfolio and educational purposes.  
+Some parts of the implementation are not included due to NDA restrictions.
 
 ## 📚 เอกสารอ้างอิง
 
@@ -225,6 +225,7 @@ ai-exercise-posture-detection/
 - [Google Gemini AI](https://ai.google.dev/)
 - [TensorFlow.js Pose Detection](https://www.npmjs.com/package/@tensorflow-models/pose-detection)
 - [BlazePose Paper](https://arxiv.org/abs/2006.10204)
+
 
 
 
