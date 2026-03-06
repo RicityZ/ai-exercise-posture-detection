@@ -17,6 +17,7 @@
 - ✅ **คำแนะนำจาก AI** - Google Gemini วิเคราะห์และให้คำปรับปรุง
 - ✅ **วัดมุมข้อต่อ** - แสดงมุมหัวเข่า สะโพก ไหล่
 - ✅ **รองรับหลายท่า** - Squat, Push-up, Plank, และอื่นๆ
+- 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![React](https://img.shields.io/badge/React-18+-61DAFB.svg)](https://reactjs.org/)
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-Pose-orange.svg)](https://google.github.io/mediapipe/)
@@ -223,6 +224,7 @@ ai-exercise-posture-detection/
 - [Google Gemini AI](https://ai.google.dev/)
 - [TensorFlow.js Pose Detection](https://www.npmjs.com/package/@tensorflow-models/pose-detection)
 - [BlazePose Paper](https://arxiv.org/abs/2006.10204)
+
 
 
 
