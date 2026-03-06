@@ -3,7 +3,7 @@
 > **ระบบตรวจจับและวิเคราะห์ท่าทางการออกกำลังกายด้วย AI** - ใช้ MediaPipe Pose Detection และ Google Gemini AI
 
 # บางส่วนของระบบไม่สามารถเปิดเผยได้เนื่องจาก NDA
-
+# 🌐 Production: https://app.allaline.com/
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![React](https://img.shields.io/badge/React-18+-61DAFB.svg)](https://reactjs.org/)
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-Pose-orange.svg)](https://google.github.io/mediapipe/)
@@ -223,5 +223,6 @@ ai-exercise-posture-detection/
 - [Google Gemini AI](https://ai.google.dev/)
 - [TensorFlow.js Pose Detection](https://www.npmjs.com/package/@tensorflow-models/pose-detection)
 - [BlazePose Paper](https://arxiv.org/abs/2006.10204)
+
 
 
