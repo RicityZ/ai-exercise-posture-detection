@@ -2,8 +2,9 @@
 
 > **ระบบตรวจจับและวิเคราะห์ท่าทางการออกกำลังกายด้วย AI** - ใช้ MediaPipe Pose Detection และ Google Gemini AI
 
-# บางส่วนของระบบไม่สามารถเปิดเผยได้เนื่องจาก NDA
-# 🌐 Production: https://app.allaline.com/
+⚠️ Some implementation details are not publicly available due to NDA.
+
+🌐 **Production System:** https://app.allaline.com/
 
 ---
 
@@ -224,6 +225,7 @@ ai-exercise-posture-detection/
 - [Google Gemini AI](https://ai.google.dev/)
 - [TensorFlow.js Pose Detection](https://www.npmjs.com/package/@tensorflow-models/pose-detection)
 - [BlazePose Paper](https://arxiv.org/abs/2006.10204)
+
 
 
 
