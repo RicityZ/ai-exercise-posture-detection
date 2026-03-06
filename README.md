@@ -2,8 +2,7 @@
 
 > **ระบบตรวจจับและวิเคราะห์ท่าทางการออกกำลังกายด้วย AI** - ใช้ MediaPipe Pose Detection และ Google Gemini AI
 # บางส่วนของระบบไม่สามารถเปิดเผยได้เนื่องจาก NDA
-# บางส่วนของระบบไม่สามารถเปิดเผยได้เนื่องจาก NDA
-# บางส่วนของระบบไม่สามารถเปิดเผยได้เนื่องจาก NDA
+
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![React](https://img.shields.io/badge/React-18+-61DAFB.svg)](https://reactjs.org/)
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-Pose-orange.svg)](https://google.github.io/mediapipe/)
