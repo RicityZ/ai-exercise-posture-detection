@@ -6,6 +6,11 @@
 
 🌐 **Production System:** https://app.allaline.com/
 
+> **📌 Public prototype vs. production**
+> repo นี้เป็นต้นแบบที่เปิดเผยได้ (React + TensorFlow.js BlazePose, Flask) ส่วนระบบที่ใช้งานจริงของ FitAddict ใช้ **MediaPipe Pose (33 landmarks) ในเบราว์เซอร์ คำนวณมุมข้อต่อ 16 ช่อง และให้คะแนน 0–100 ด้วย multi-joint DTW ใน Web Worker** โดยเทียบกล้องของผู้ใช้กับวิดีโอต้นแบบของเทรนเนอร์ บน **Next.js + TypeScript, FastAPI, PostgreSQL และ AWS S3** ซึ่งโค้ดอยู่ภายใต้ NDA จึงไม่ได้เผยแพร่ที่นี่
+>
+> This repo is a shareable prototype. The production system uses in-browser MediaPipe Pose with joint-angle DTW scoring (Next.js + TypeScript, FastAPI, PostgreSQL, AWS S3); that code is under NDA.
+
 ---
 
 ## 🎯 ภาพรวมโปรเจค
